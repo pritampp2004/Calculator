@@ -40,8 +40,7 @@ Plaintext
 📜 Installation
 To run this project locally:
 
-Clone the repository: git clone https://github.com/your-username/calculator-web.git
-
+Clone the repository: git clone (https://github.com/pritampp2004/Calculator)
 Open index.html in your browser.
 
 Esc to clear the screen.
